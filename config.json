@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0154AA",
+            "lang-select-color": "#222829",
+            "bg-light": "#0154AA",
+            "welcome-bonus-bg": "#0154AA",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0176eb",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#FC8725",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FC8725",
+            "yellow": "#0ED2F7",
+            "yellow-button": "#FC8725",
+            "button-text": "#000000",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#0154AA",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#0154AA",
+            "faq-label": "#0154AA",
+            "bg-footer": "#0154AA",
+            "copyright": "#e7e7d5",
+            "starColor": "#FC8725",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4863"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4864",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Spinfin Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4865",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Spinfin"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Spinfin",
+                    "title": "Spinfin — Best Online Casino UK | £300 Bonus + 200 Spins",
+                    "description": "Play at Spinfin Casino UK with 9,000+ certified games, live dealers & an instant £300 bonus + 200 free spins. Trusted, secure platform. Join now!\n",
+                    "canonical": "spinfin-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4866",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "spinfin-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4867"
+                },
+                "hero": {
+                    "title": "UK's Premier Online Casino: Spin & Win Big",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4868",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -6,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4869",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in the UK? We offer 9,000+ certified games, secure SHA-256 encrypted transactions, and a rewarding welcome package for British players. Here's why thousands of UK players choose Spinfin:\n",
+                    "items": [
+                        "Licensed by Tobique Gaming Commission, licence #0000109, verified active",
+                        "9,000+ games from 40+ providers: Yggdrasil, Pragmatic Play, Betsoft & more",
+                        "Welcome bonus: 100% up to £300 + 200 free spins, min. £10 deposit",
+                        "Instant withdrawals via crypto & e-wallets within 24 hours, no fees",
+                        "SHA-256 encryption protecting 100% of UK player transactions & data",
+                        "24\/7 live chat support in English, responsive within minutes"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied UK players enjoying certified, secure gaming with fast payouts. Our dedicated English-speaking support team is available 24\/7 to assist you every step of the way.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Spinfin App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4870",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Spinfin App",
+                    "mobileGooglePlayImageTitle": "Spinfin App",
+                    "mobileIosImageTitle": "Spinfin App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Spinfin Casino",
+                        "description1": "We are a modern online casino built for UK players, offering 9,000+ licensed games from 40+ world-class providers. Our platform combines cutting-edge technology with a fun, fish-themed design for a unique gaming experience.\n",
+                        "items": [
+                            "Launched as a full-stack online casino and sportsbook platform",
+                            "Secured Tobique Gaming Commission licence #0000109",
+                            "Expanded game library to 9,000+ titles from 40+ certified studios",
+                            "Introduced SHA-256 encrypted transactions and KYC verification"
+                        ],
+                        "description2": "We operate under Tobique Gaming Commission licence #0000109, with SHA-256 encryption protecting all transactions. Every game is tested by certified RNG auditors for fair, random outcomes and transparency.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4871",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our portfolio for UK players with exclusive titles and seasonal promotions. Our responsible gaming tools and 24\/7 English support make us the smart choice. Join Spinfin and start winning today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for UK Players",
+                        "description": "<h2>Complete Game Portfolio for UK Players at Spinfin Casino<\/h2>\n\n<p>At Spinfin, we are proud to offer one of the most comprehensive gaming libraries available to UK players today. Our platform features 9,000+ certified titles spanning every genre — from high-volatility slots and progressive jackpots to sophisticated live dealer tables and classic RNG table games. We partner with 40+ world-renowned software studios including Yggdrasil, Pragmatic Play, Betsoft, Booongo, WinFinity, ELA Games, and Spinomenal, ensuring that every British player finds something tailored to their taste. All games are independently tested for fairness, random outcomes, and RTP accuracy, giving you peace of mind with every spin and every hand dealt.<\/p>\n\n<h3>Slots Collection: 7,000+ Titles for Every UK Player<\/h3>\n<p>Our slot library is the heart of the Spinfin experience, featuring over 7,000 releases from more than 40 certified providers. Whether you prefer classic 3-reel fruit machines, modern video slots with complex bonus mechanics, or feature-rich Megaways titles, our gaming platform delivers unmatched variety. UK players can browse 35+ Megaways titles, 95+ bonus buy options, and 180+ jackpot slots in one convenient place. We also offer 180+ exclusive games — titles you simply cannot find anywhere else — such as Juicy Crystal and Joker WinPot by ELA Games, giving British gamblers a truly original session every time they log in.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots (35+ titles):<\/strong> Experience dynamic reel mechanics with thousands of ways to win per spin. Top picks include fan favourites from Big Time Gaming and Pragmatic Play, with max win potential exceeding 50,000x your stake. Perfect for UK players seeking high-volatility thrills with every session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Slots (95+ options):<\/strong> Skip the base game and jump straight into the feature round. Our buy feature slots from providers like Betsoft and Booongo let you purchase free spins or bonus rounds directly, ideal for British players who want instant action without the wait.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpot Slots (180+ titles):<\/strong> We host over 180 jackpot titles including local, daily, and progressive jackpots. Winners are drawn regularly, with some pools growing into six-figure prizes. Progressive jackpot wins above a certain threshold may be paid in structured instalments as per our transparent terms.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exclusive Spinfin Titles (180+):<\/strong> Our exclusive game collection is developed by boutique studios specifically for our platform. Titles like Juicy Crystal and Joker WinPot offer gameplay mechanics and visual styles you will not encounter on any other UK gambling site, making Spinfin a genuinely unique destination for British players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>New & Hot Releases:<\/strong> We update our library weekly with the latest certified releases. Use our dedicated \"New\" and \"Hot\" filters to discover what fellow UK players are spinning right now, or explore curated collections by provider, theme, and volatility level.<\/li>\n<\/ul>\n\n<h3>Live Dealer Casino: Real Tables Streamed for UK Players<\/h3>\n<p>Our live casino section features 100 professional dealer tables streamed in HD quality from state-of-the-art studios, powered by leading providers including Evolution Gaming and Pragmatic Play Live. British players can enjoy the authentic atmosphere of a land-based casino from the comfort of their home, with real dealers, real cards, and real-time action available around the clock. All live tables are certified for fair play, with independent RNG oversight ensuring every outcome is genuine and unbiased. Whether you are a casual player or a high-stakes enthusiast, our live casino betting limits accommodate every style of play.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> Choose from European Roulette (RTP 97.3%), Speed Roulette, Lightning Roulette with multipliers up to 500x, and more. Betting limits start from £0.20 per spin and scale up to £5,000, making our live roulette tables ideal for both casual UK spinners and serious gamblers alike.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Experience classic blackjack with RTP of up to 99.5%, alongside exciting variants like Infinite Blackjack (unlimited seats) and Lightning Blackjack featuring randomised multipliers. Professional English-speaking dealers guide every hand, with VIP tables available for limits up to £10,000 per round.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Our baccarat collection includes Standard Baccarat (RTP 98.94%), Speed Baccarat for rapid rounds, Baccarat Squeeze for added suspense, and No Commission Baccarat with adjusted payouts. Standard and VIP rooms ensure every UK player finds their preferred stakes level.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Enjoy Crazy Time with bonus rounds and a 20,000x maximum win, Monopoly Live combining the classic board game with real money prizes, Mega Ball bingo-lottery hybrid, and Dream Catcher money wheel. These entertaining hybrid formats are especially popular among UK players who want excitement beyond traditional casino games.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker Tables:<\/strong> Play Three Card Poker, Casino Hold'em, Caribbean Stud Poker with a growing progressive jackpot, and Texas Hold'em Bonus. All poker tables feature professional dealers and side bet options, with comprehensive strategy guides available in our support centre for UK players new to the format.<\/li>\n<\/ul>\n\n<h3>RNG Table Games: Classic Casino Experiences Online<\/h3>\n<p>Beyond our live dealer offering, Spinfin's RNG table game section delivers 200+ certified titles covering every casino staple. UK players can enjoy multiple variations of roulette, blackjack, baccarat, poker, craps, and specialty games, all developed by trusted studios and independently audited for random, fair outcomes. Our RNG games are perfect for players who prefer a self-paced experience without the social dynamics of a live table. Minimum bets start as low as £0.10, and maximum limits extend to £5,000 per round for high-stakes British players seeking premium wagering opportunities.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #fca810;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #0e417a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£100<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14549c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0e417a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14549c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0e417a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Live Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14549c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Jackpot Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£50<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Sports Betting: Beyond the Casino for UK Players<\/h3>\n<p>Spinfin is not just a casino — we are a fully integrated gambling hub offering sports betting alongside our casino portfolio. UK sports enthusiasts can wager on football, tennis, basketball, horse racing, and dozens of other sports and esports markets. Our sportsbook features competitive odds, live in-play betting, and a dedicated sports welcome bonus of 200% up to £300 for new British members who prefer wagering on sporting events. The seamless switch between casino and sportsbook within one account makes Spinfin the ideal single-platform destination for the complete UK gambling experience.<\/p>\n\n<h3>Mobile Gaming: Play Anywhere in the UK<\/h3>\n<p>Our platform is fully optimised for mobile browsers on iOS and Android devices, delivering the complete 9,000+ game library without requiring a dedicated app download. UK players can enjoy a smooth, responsive experience on smartphones and tablets, with touch-friendly navigation, fast game loading, and full access to live casino tables, slot tournaments, and account management features. Whether you are commuting across London, relaxing at home in Manchester, or enjoying a weekend in Edinburgh, Spinfin delivers premium casino entertainment wherever you are in the United Kingdom.<\/p>\n\n<h3>Game Providers: 40+ Certified Studios Powering Our Platform<\/h3>\n<p>We are committed to partnering exclusively with certified, reputable software providers whose games are independently audited for fairness, security, and reliable RTP performance. Our roster of 40+ studios includes industry titans and innovative boutique developers, ensuring that our game library stays fresh, diverse, and genuinely exciting for UK players. From Yggdrasil's Viking-inspired epics to Pragmatic Play's high-frequency bonuses and ELA Games' exclusive Spinfin titles, every game in our collection meets strict quality and fairness standards before going live on the platform.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Yggdrasil Gaming:<\/strong> A Swedish powerhouse known for visually stunning slots with innovative mechanics. Their titles like Vikings Go Berzerk and Golden Fish Tank are fan favourites among UK players for their high RTP values (typically 96%+) and immersive bonus features.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Pragmatic Play:<\/strong> One of the world's most prolific casino studios, supplying both premium slots like Gates of Olympus (96.5% RTP) and a full live dealer suite. British players will recognise their popular titles and appreciate the consistent quality and frequent release schedule.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Betsoft Gaming:<\/strong> Specialising in cinematic 3D slots with rich storylines, Betsoft titles deliver a film-quality experience with generous bonus mechanics and RTPs averaging 95–97%. Popular with UK players who want their casino session to feel like entertainment, not just gambling.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Booongo & Spinomenal:<\/strong> Boutique developers supplying a combined 300+ titles with strong visual design and mobile-first architecture. Their games load instantly on UK mobile networks and feature engaging mechanics that keep British players returning for more.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>ELA Games (Exclusive Partner):<\/strong> Provider of Spinfin's 180+ exclusive titles, ELA Games develops games specifically for our platform. Exclusive releases like Juicy Crystal and Joker WinPot cannot be found on any other UK casino site, giving Spinfin players access to original content unavailable elsewhere in the British market.<\/li>\n<\/ul>\n\n<p>Ready to explore our full 9,000+ game collection? Register your Spinfin account today, claim your welcome bonus of up to £300 + 200 free spins, and discover why British players are making Spinfin their go-to online casino destination in the UK.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Bonuses & Rewards for UK Players",
+                        "description": "<h2>Banking, Bonuses & Rewards for UK Players at Spinfin<\/h2>\n\n<p>At Spinfin, we understand that seamless, secure financial transactions are just as important as a great game library for UK players. Our banking infrastructure supports a wide range of deposit and withdrawal methods, including traditional card payments, popular e-wallets, and modern cryptocurrencies, all protected by SHA-256 encryption and verified SSL technology. British players benefit from a minimum deposit of just £10, fast processing times, and a transparent fee structure with zero withdrawal charges. Whether you prefer to fund your account with a Visa card or Bitcoin, we ensure the process is straightforward, fast, and fully secure on our end.<\/p>\n\n<h3>Deposit Methods Available to UK Players<\/h3>\n<p>We offer multiple convenient deposit methods tailored for British players. All deposits are processed instantly, allowing you to start playing your favourite slots and live dealer games within seconds of completing your transaction. Our minimum deposit amount is just £10 — one of the most accessible thresholds in the UK online casino market — and there are no deposit fees applied by Spinfin. Players can use any of the supported methods visible in the cashier section after creating their account, with cryptocurrency options providing additional privacy and speed for UK gamblers who prefer decentralised finance.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> The most widely used payment methods among UK casino players. Card deposits are processed instantly and are accepted from major British issuers including Barclays, HSBC, Lloyds, and NatWest. Minimum deposit £10, with standard card processing times applying for withdrawals (3–7 business days).<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cryptocurrency (BTC, ETH, LTC, USDT):<\/strong> Spinfin is a crypto-friendly casino, accepting Bitcoin, Ethereum, Litecoin, and Tether for both deposits and withdrawals. Crypto transactions are processed within 0–24 hours, making them the fastest withdrawal method available to UK players. Ideal for those who value privacy and speed above all else.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bank Transfers:<\/strong> For larger transactions, UK players can use bank transfers directly. Processing times are 3–7 business days, with no fees applied by Spinfin. Our finance department operates Monday to Friday, 6 am–5 pm GMT, ensuring British business-hours processing for bank transfer requests submitted during working hours.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>E-Wallets:<\/strong> Fast digital wallet options provide UK players with quicker transaction processing compared to traditional banking methods. E-wallet withdrawals typically complete within 0–24 hours, significantly faster than card or bank transfer timelines. Check the cashier for the full list of supported e-wallet providers available in your region.<\/li>\n<\/ul>\n\n<h3>Withdrawal Policy: How Fast Can UK Players Cash Out?<\/h3>\n<p>Our withdrawal system is designed for transparency and speed. Once you have completed the required KYC identity verification — which our team aims to review within 24–48 hours — your withdrawals are processed promptly with zero fees applied by Spinfin. The daily withdrawal limit is £500 and the monthly limit is £7,000, ensuring responsible cash management for all UK players. The pending period for withdrawal requests is 0–5 business days, with e-wallets and cryptocurrency transactions completing fastest at 0–24 hours. Bank transfers and card withdrawals take 3–7 business days as per standard UK banking timelines.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #fca810;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Time<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Fee<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #0e417a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Crypto<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0–24 hrs<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14549c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>E-Wallet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0–24 hrs<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0e417a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">3–7 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14549c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bank<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">3–7 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Welcome Bonus: Claim Up to £300 + 200 Free Spins<\/h3>\n<p>Our welcome package is one of the most rewarding offers available to new UK players in the online casino market. New members who register and make their first deposit of a minimum £10 receive a 100% match bonus up to £300, plus 200 free spins delivered in daily instalments of 20 spins over 10 consecutive days. The bonus wagering requirement is 35x the bonus amount, and free spin winnings carry a 40x wagering requirement, both to be completed within 10 days of activation. This generous onboarding package gives British players substantial extra funds to explore our 9,000+ game library right from the start of their Spinfin journey.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>1st Deposit Match (100% up to £300):<\/strong> Deposit a minimum of £10 and we instantly double your balance up to £300. For example, a £100 deposit becomes £200 in total playing funds, giving UK players more spins, more hands, and more chances to win from the very first session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>200 Free Spins (delivered daily):<\/strong> Your 200 free spins are not credited all at once — we issue 20 spins per day for 10 days, extending your bonus excitement over nearly two weeks. This ensures UK players have reasons to return to Spinfin every day during the onboarding period, discovering new games with each daily spin batch.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wagering Requirements (35x bonus \/ 40x spins):<\/strong> The 35x wagering requirement applies to the bonus amount, and 40x applies to free spin winnings. All requirements must be met within 10 days of activation. Slots typically contribute 100% toward wagering, while table games may contribute at a lower rate — check our full terms for game contribution details.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Sports Welcome Bonus (200% up to £300):<\/strong> UK sports enthusiasts can alternatively claim our sportsbook welcome offer: a 200% match bonus up to £300 on the first sports deposit. This makes Spinfin equally rewarding for British players who prefer football, horse racing, and other sports betting markets alongside or instead of casino games.<\/li>\n<\/ul>\n\n<h3>Ongoing Promotions, VIP Club & Tournaments<\/h3>\n<p>Our commitment to rewarding UK players extends well beyond the welcome package. We offer 5+ seasonal promotions including weekly reload bonuses, cashback offers, referral rewards, and exclusive challenges that keep regular British members engaged and rewarded throughout the year. Our VIP Club recognises our most loyal UK players with escalating privileges — including personalised bonuses, faster withdrawal processing, higher limits, and dedicated account management. Additionally, we run active slot tournaments where UK players compete for real cash prizes, adding a competitive, social dimension to the standard solo gaming experience that makes Spinfin unique among British online casinos.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Reload Bonuses:<\/strong> Regular UK depositors receive weekly reload offers providing bonus funds on subsequent deposits. These reload promotions are one of the most popular perks among our British member base, providing ongoing value after the initial welcome bonus period ends.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cashback Promotions:<\/strong> We offer cashback deals that return a percentage of net losses to UK players over defined periods. Cashback provides a genuine financial safety net, ensuring that even in a losing session, British players receive partial compensation that can be used for further play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slot Tournaments & Challenges:<\/strong> Compete against other UK players in regular slot tournaments and timed challenges. These competitions add a leaderboard dynamic to the standard casino experience, with real cash prizes and free spin packages awarded to the top finishers among our British gaming community.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP Club Rewards:<\/strong> Our tiered VIP programme rewards the most loyal UK players with escalating benefits at every level — from faster withdrawals and higher monthly limits to exclusive bonuses and a dedicated personal account manager. Long-term British members are recognised and rewarded in a way that reflects the genuine value they bring to the Spinfin community.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Gamified Coin Store:<\/strong> Spinfin features a unique gamified coin store where UK players earn coins through gameplay and redeem them for bonus credits, free spins, and other rewards. This loyalty mechanic transforms every session into a rewarding experience, ensuring British players accumulate value regardless of win\/loss outcomes.<\/li>\n<\/ul>\n\n<h3>Responsible Gaming: Our Commitment to UK Players<\/h3>\n<p>We take responsible gaming seriously and provide UK players with a full suite of tools to manage their gambling activity effectively. Our platform includes deposit limits, session time controls, loss limits, and self-exclusion options — all accessible directly from your account dashboard. We support British players in making informed decisions about their gambling by providing clear, transparent terms on all bonuses, games, and financial transactions. Our 24\/7 English-speaking customer support team is always available via live chat to assist UK players with setting limits, understanding terms, or accessing external responsible gambling resources. We are committed to providing a safe, entertaining, and sustainable gaming environment for every British member of the Spinfin community.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim my welcome bonus at Spinfin Casino?",
+                            "answer": "Register your account and deposit a minimum of £10 via any supported method. Your 100% bonus up to £300 credits instantly, and 200 free spins are delivered in 20 daily batches over 10 days. Wagering requirement is 35x bonus within 10 days. Our 24\/7 English support assists via live chat anytime.\n"
+                        },
+                        {
+                            "title": "What payment methods does Spinfin accept for UK players?",
+                            "answer": "We accept Visa, Mastercard, bank transfers, e-wallets, and cryptocurrencies including Bitcoin, Ethereum, Litecoin, and Tether. The minimum deposit and withdrawal is £10 with zero fees from Spinfin. Crypto and e-wallet withdrawals complete within 0–24 hours for the fastest UK cashout experience.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at Spinfin Casino?",
+                            "answer": "Crypto and e-wallet withdrawals process in 0–24 hours. Card and bank transfer withdrawals take 3–7 business days. The pending review period is 0–5 days. Complete KYC verification first — we review documents within 24–48 hours. Daily limit is £500 and monthly limit is £7,000 with no fees.\n"
+                        },
+                        {
+                            "title": "Is Spinfin Casino licensed and safe for real money gaming?",
+                            "answer": "Yes, Spinfin operates under Tobique Gaming Commission licence #0000109, verified active. We use SHA-256 encryption to protect all UK player transactions and personal data. Our games are independently tested for RNG fairness. KYC verification ensures secure, identity-verified real money play.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile phone in the UK?",
+                            "answer": "Yes. Our platform is fully optimised for iOS and Android mobile browsers with no app download required. All 100 live dealer tables are accessible on mobile, including live roulette, blackjack, baccarat, and game shows. The experience is identical to desktop, with touch-friendly navigation throughout.\n"
+                        },
+                        {
+                            "title": "What documents do I need to verify my Spinfin account?",
+                            "answer": "Standard KYC verification requires a government-issued photo ID (passport or driving licence) and proof of address dated within 3 months. Upload documents directly from your account dashboard. Our team reviews submissions within 24–48 hours. Verification must be completed before your first withdrawal.\n"
+                        },
+                        {
+                            "title": "Does Spinfin offer a sports betting section for UK players?",
+                            "answer": "Yes. We operate a full sportsbook alongside our casino, covering football, tennis, horse racing, basketball, and esports markets. UK sports bettors can claim a dedicated 200% welcome bonus up to £300 on their first sports deposit. Switch seamlessly between casino and sportsbook within one account.\n"
+                        },
+                        {
+                            "title": "How many games does Spinfin Casino offer UK players?",
+                            "answer": "We offer 9,000+ certified games from 40+ world-class providers including Yggdrasil, Pragmatic Play, Betsoft, and Booongo. The library includes 7,000+ slots, 200+ RNG table games, 100 live dealer tables, and 180+ exclusive Spinfin titles you cannot find on any other UK gambling site.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
